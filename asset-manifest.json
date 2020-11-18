@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ComicsCard/static/css/main.a1f59a48.chunk.css",
+    "main.js": "/ComicsCard/static/js/main.932272ff.chunk.js",
+    "main.js.map": "/ComicsCard/static/js/main.932272ff.chunk.js.map",
+    "runtime-main.js": "/ComicsCard/static/js/runtime-main.e0bada76.js",
+    "runtime-main.js.map": "/ComicsCard/static/js/runtime-main.e0bada76.js.map",
+    "static/js/2.582ee446.chunk.js": "/ComicsCard/static/js/2.582ee446.chunk.js",
+    "static/js/2.582ee446.chunk.js.map": "/ComicsCard/static/js/2.582ee446.chunk.js.map",
+    "index.html": "/ComicsCard/index.html",
+    "static/css/main.a1f59a48.chunk.css.map": "/ComicsCard/static/css/main.a1f59a48.chunk.css.map",
+    "static/js/2.582ee446.chunk.js.LICENSE.txt": "/ComicsCard/static/js/2.582ee446.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bada76.js",
+    "static/js/2.582ee446.chunk.js",
+    "static/css/main.a1f59a48.chunk.css",
+    "static/js/main.932272ff.chunk.js"
+  ]
+}
